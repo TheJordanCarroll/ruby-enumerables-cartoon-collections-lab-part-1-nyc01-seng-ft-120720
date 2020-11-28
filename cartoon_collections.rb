@@ -1,6 +1,6 @@
 def greet_characters(array)
 array.each do |character|
-   puts "#{oppressed_worker.capitalize} wants to start a union!"
+   puts "Hello #{character}!"
 end
 end
 
